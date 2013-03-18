@@ -1,0 +1,33 @@
+# Standard
+.bundle
+vendor/bundle
+vendor/ruby
+log/*.log
+tmp/**/*
+*.rbc
+*.sassc
+.sass-cache
+public/system/*
+.rvmrc
+
+# git
+*.orig
+*.base
+
+# IDE Files
+.project
+.idea
+nbproject
+
+# OSX files
+.DS_Store
+
+# Emacs
+*~
+
+# Vim
+*.swp
+
+# Generated output
+images
+index.html
